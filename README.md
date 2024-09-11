@@ -12,7 +12,7 @@ Essentially, it calculates the screen size and resizes the window and adds a mar
 
 # Installation
 
-Clone this repo and run `plasmapkg2 --install . `inside the directory.  
+Clone this repo and run `kpackagetool6 --type=KWin/Script -i <foldername>/ `.
 Go to `Window Management -> Kwin Scripts` and enable the newly installed script  
 Go to `Shortcuts` and assign a shortcut for the actions you need.
 
