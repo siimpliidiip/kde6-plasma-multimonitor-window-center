@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Name": "Resize & Center Current Window on Current Screen",
+        "Description": "Set the size of the current window to chosen ratio of screen and center it on that Monitor",
+        "Icon": "preferences-system-windows",
+
+        "Authors": [
+            {
+                "Email": "feedback@SiimpliiDiip.tech",
+                "Name": "SiimpliiDiip"
+            }
+        ],
+        "Id": "kde6-plasma-multimonitor-window-center-main",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/siimpliidiip/kde6-plasma-multimonitor-window-center"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
